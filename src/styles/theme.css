@@ -1,0 +1,9 @@
+.dark-theme,
+.dark-theme h2,
+.dark-theme p {
+    color: #fff;
+}
+
+.dark-theme {
+    background-color: #0e1217;
+}
